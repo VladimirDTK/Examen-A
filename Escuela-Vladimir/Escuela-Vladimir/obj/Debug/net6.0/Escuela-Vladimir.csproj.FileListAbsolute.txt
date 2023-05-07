@@ -1,0 +1,15 @@
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\bin\Debug\net6.0\Escuela-Vladimir.exe
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\bin\Debug\net6.0\Escuela-Vladimir.deps.json
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\bin\Debug\net6.0\Escuela-Vladimir.runtimeconfig.json
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\bin\Debug\net6.0\Escuela-Vladimir.dll
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\bin\Debug\net6.0\Escuela-Vladimir.pdb
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\obj\Debug\net6.0\Escuela-Vladimir.csproj.AssemblyReference.cache
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\obj\Debug\net6.0\Escuela-Vladimir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\obj\Debug\net6.0\Escuela-Vladimir.AssemblyInfoInputs.cache
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\obj\Debug\net6.0\Escuela-Vladimir.AssemblyInfo.cs
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\obj\Debug\net6.0\Escuela-Vladimir.csproj.CoreCompileInputs.cache
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\obj\Debug\net6.0\Escuela-Vladimir.dll
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\obj\Debug\net6.0\refint\Escuela-Vladimir.dll
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\obj\Debug\net6.0\Escuela-Vladimir.pdb
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\obj\Debug\net6.0\Escuela-Vladimir.genruntimeconfig.cache
+C:\Users\lenin\source\repos\Escuela-Vladimir\Escuela-Vladimir\obj\Debug\net6.0\ref\Escuela-Vladimir.dll
